@@ -1,6 +1,6 @@
 *
 {
-    font-size:16px;
+    font-size:20px;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -9,18 +9,14 @@ h1{
     margin-bottom: 20px;
 }
 header{
-    padding: 50px;
+    padding: 30px;
     background-color: bisque;
     text-align: center;
     display:block;
-    /*width: 80%;
-    max-width: 900px;
-    margin: 20px auto;
-    */
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 nav {
-    margin-top: 15px;
+    margin-top: 10px;
 }
 nav ul {
     list-style: none;
